@@ -14,7 +14,7 @@ python -m venv .venv
 .\.venv\bin\activate # Linux
 .\.venv\Scripts\Activate.ps1 # Windows
 
-pip install -r requirments.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
