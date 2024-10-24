@@ -25,7 +25,7 @@ python hue_shift.py <image_path> <hue_shift> [-o <output_path>]
 
 ### Arguments
 - ```image_path```: (Required) The path to the input image to be processed.
-- ```-s```, ```--hue_shift```: (Optional) The value of the hue shift in degrees (0 to 360). If no value is provided, default values will be used.
+- ```hue_shift```: (Required) The value of the hue shift in degrees (0 to 360). If no value is provided, default values will be used.
 - ```-o```, ```--output_path```: (Optional) The path to the output image or folder. If no output path is specified, the image will be saved with default names.
 
 ## Example
